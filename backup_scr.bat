@@ -1,1 +1,1 @@
-python backup_scr.pyw
+python backup_scr.py
