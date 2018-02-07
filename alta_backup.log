@@ -1,1 +1,9 @@
 
+2018-02-07 15:34:39,827 INFO       !!!Start backup_app!!!
+2018-02-07 15:34:40,161 INFO       Start create_zip_file
+2018-02-07 15:34:40,163 INFO       create_zip_file is completed
+2018-02-07 15:34:40,163 INFO       Start move_to_backup
+2018-02-07 15:34:47,935 INFO       move_to_backup is completed
+2018-02-07 15:34:47,935 INFO       Start rotation_files
+2018-02-07 15:34:48,070 INFO       rotation_files is completed
+2018-02-07 15:34:48,070 INFO       !!!backup_app is completed!!!
